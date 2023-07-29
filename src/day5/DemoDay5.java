@@ -11,4 +11,8 @@ public class DemoDay5 {
 System.out.println("Data Base");
 	}
 
+	public void getInfo() {
+		
+		System.out.println("Information");
+	}
 }
