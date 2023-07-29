@@ -7,4 +7,8 @@ public class DemoDay5 {
 		System.out.println("Today is a Sunnday day");
 	}
 
+	public void getData(){
+System.out.println("Data Base");
+	}
+
 }
