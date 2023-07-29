@@ -2,8 +2,13 @@ package day2;
 
 public class DemoDay2 {
 	
-	public static void main(String[] args) {
+	public void getData() {
 		
+		System.out.println("Data....");
+	}
+	
+	public static void main(String[] args) {
+		System.out.println("Khwaja Sediqi....");
 		System.out.println("Test");
 		
 		
