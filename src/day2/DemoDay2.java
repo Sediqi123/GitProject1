@@ -15,5 +15,12 @@ public class DemoDay2 {
 		
 		System.out.println(a+b);
 	}
+	
+	// add a new method
+	
+	public static void subtract(int a, int b) {
+		
+		System.out.println(a-b);
+	}
 
 }
